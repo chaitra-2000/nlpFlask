@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'flasknlp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FE3B3789788A47AC8967F5F90F1AC02D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8CB96954A6B4DCEA404CF057D3150FD }}
